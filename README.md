@@ -76,5 +76,7 @@ Program:
 </body>
 </html>
 ---
-output:
-![Screenshot (241)](https://github.com/user-attachments/assets/c18aa295-5485-4ddb-94d9-c3aa936037d3)
+<h2>output</h2>:
+
+![Screenshot (241)](https://github.com/user-attachments/assets/81d97e20-2cae-4954-950d-47348e177923)
+
