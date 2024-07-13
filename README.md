@@ -1,5 +1,5 @@
 # html-city-tourism
-Ex-1
+EXPERIMENT-01
 Creating a html file to display the contents as seen in the following image.
 Program:
 ```
@@ -76,7 +76,11 @@ Program:
 </body>
 </html>
 ```
-output:
+Output:
 
 ![Screenshot (241)](https://github.com/user-attachments/assets/81d97e20-2cae-4954-950d-47348e177923)
 
+Result:
+Thus,To Create a html file to display the contents as seen in the following image is executed successfully.
+
+EXPERIMENT-2
