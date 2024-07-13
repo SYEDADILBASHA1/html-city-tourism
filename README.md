@@ -75,8 +75,8 @@ Program:
 </table>
 </body>
 </html>
----
-<h2>output</h2>:
+```
+output:
 
 ![Screenshot (241)](https://github.com/user-attachments/assets/81d97e20-2cae-4954-950d-47348e177923)
 
