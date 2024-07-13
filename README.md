@@ -1,7 +1,7 @@
 # html-city-tourism
 ## EXPERIMENT-01
 Creating a html file to display the contents as seen in the following image.
-Program:
+## Program:
 ```
 <!DOCTYPE html>
 <html>
@@ -76,11 +76,11 @@ Program:
 </body>
 </html>
 ```
-Output:
+# Output:
 
 ![Screenshot (241)](https://github.com/user-attachments/assets/81d97e20-2cae-4954-950d-47348e177923)
 
-Result:
+# Result:
 Thus,To Create a html file to display the contents as seen in the following image is executed successfully.
 
 EXPERIMENT-2
